@@ -33,4 +33,24 @@ color: aliceblue;
     background-color: black;
     font-size: 20px;
     text-align: center;
+    border-radius: 10px;
 }
+footer{
+    background-color: black;
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+ }
+ .imginformacoes{
+width: 25%;
+text-align: center;
+justify-content: center;
+
+
+ }
+ .textoinformacoes{
+ text-align: center;
+ font-size: 140%;
+
+ }
